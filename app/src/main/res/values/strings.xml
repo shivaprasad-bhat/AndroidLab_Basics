@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Lab</string>
+    <string name="home_label">Android Lab - MCA Sem III</string>
+    <string name="lab1">Lab 1</string>
+</resources>
